@@ -20,7 +20,8 @@ This project is developed as part of the coursework for Image and Video Processi
 **Team Members:**
 
 - Boini Devashish
-- Kilaru Sai Manasa Veena
 - Bommineni Vishwajith Reddy
+- Kilaru Sai Manasa Veena
+- Sandhi Sai Sujith Reddy
 - Thummanapelly Shriya
-- Sandhi Sai SUjith Reddy
+
